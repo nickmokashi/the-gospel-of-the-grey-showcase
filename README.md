@@ -17,9 +17,9 @@ A gospel-shaped book in progress: strange, grounded, merciful, apocalyptic when 
 It begins at Source and ends at Source. Between the two runs a mirrored road.
 
 * **Seven levels of hell.** Seven distortions: divine energies bent downward through fear, hunger, separation, forgetting, false light and wounded embodiment. Each is tied to one of the seven energy centres, from the root to the crown.
-* **An intermission on Earth.** Unnumbered, and not one of the fourteen levels: the middle, the balance point, the turning chamber.
+* **The Intermission.** Earth, the middle. Unnumbered and not one of the fourteen levels: the balance point, the turning chamber.
 * **Seven levels of heaven.** The same seven energies, healed. Every hell chapter has a mirror in a heaven chapter.
-* **The return.** Back to Source, outside the ladder, carrying the body, the scars, the hunger and the memory home.
+* **The Final Return.** Back to Source, outside the ladder, carrying the body, the scars, the hunger and the memory home.
 
 The book holds symbolic, psychological, mystical, practical and energetic meanings together without forcing one answer, and it does not claim every image or vision as literal. A scene does not have to have literally happened to be true.
 
@@ -54,7 +54,7 @@ Every ruling goes into a decision log, and every symbol the book leans on is tra
 
 ## Where it stands
 
-About **58,000 words of prose are approved clean**, with **55 plates**: the opening, the threshold, all seven levels of hell, the intermission, and the first level of heaven. The rest of the heavens and the return are still to come.
+About **58,000 words of prose are approved clean**, with **55 plates**: the opening, the threshold, all seven levels of hell, the Intermission, and the first level of heaven. The rest of the heavens and the Final Return are still to come.
 
 A build script sets the approved chapters and plates into a full-colour 7 x 10 book, and a compressed copy goes to a Kindle Scribe for reading and marking up after every finished chapter.
 
