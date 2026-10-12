@@ -48,7 +48,7 @@ Each chapter is built the way a field note is, from pressure rather than from an
 13. **Voice pass.** A soul check, not a polish. Does it sound like Greygray, but clearer? Where is it alive, and where is it fake?
 14. **Revision.** In small, named passes, rhythm only or generic language only. Never "make it better."
 
-Only then is a chapter approved clean, split at its image beats, and illustrated. Every plate is generated, checked against the moment it sits in, and approved one at a time. A plate takes an object or a surface from the scene rather than restaging it.
+Only then is a chapter approved clean, split at its image beats, and illustrated. Each chapter is finished, titled, enemy-edited and illustrated before the next one begins. Every plate is generated, checked against the moment it sits in, and approved one at a time. A plate takes an object or a surface from the scene rather than restaging it.
 
 Every ruling goes into a decision log, and every symbol the book leans on is traced in a source and symbol ledger.
 
