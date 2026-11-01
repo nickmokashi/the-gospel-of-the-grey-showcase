@@ -54,7 +54,7 @@ Every ruling goes into a decision log, and every symbol the book leans on is tra
 
 ## Where it stands
 
-About **65,000 words of prose are approved clean**, with **55 plates**: the opening, the threshold, all seven levels of hell, the Intermission, and the first two levels of heaven, the second still waiting on its seven plates. The rest of the heavens and the Final Return are still to come.
+About **73,000 words of prose are approved clean**, with **71 plates**: the opening, the threshold, all seven levels of hell, the Intermission, and the first three levels of heaven. The rest of the heavens and the Final Return are still to come.
 
 A build script sets the approved chapters and plates into a full-colour 7 x 10 book, and a compressed copy goes to a Kindle Scribe for reading and marking up after every finished chapter.
 
